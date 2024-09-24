@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html>
 <head>
     <title>Laravel - ItSolutionStuff.com</title>
@@ -77,4 +77,4 @@
 @yield('content')
 
 </body>
-</html>
+</html> --}}
